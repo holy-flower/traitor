@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Test12
+=======
+test22
+>>>>>>> branch2
 
 .PHONY: build
 build:
